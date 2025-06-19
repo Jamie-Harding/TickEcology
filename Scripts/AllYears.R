@@ -8,6 +8,7 @@ library(DHARMa)
 library(naniar)
 library(ggeffects)
 library(ggplot2)
+library(lubridate)
 
 # list all Excel files
 calsenfiles <- list.files(path = "data",
@@ -15,10 +16,42 @@ calsenfiles <- list.files(path = "data",
                           full.names = TRUE
 )
 
+
+
 # Read each SiteSpecies sheet into a data frame
 sitespecieslist <- lapply(calsenfiles, function(filename){
   df <- read_excel(path = filename,
                    sheet = "SiteSpecies")
+  
+  names(df) <- tolower(names(df))
+  names(df) <- gsub(" ", "_", names(df))
+  
+  # Fixes date
+  if(inherits(df$date, "POSIXct")){
+    df$date <- as.Date(df$date)
+  } else if(is.character(df$date)) {
+    df$date <- as.Date(as.numeric(df$date), origin="1899-12-30")
+  } else {
+    df$date <- ymd(df$date)
+  }
+  
+  # Fixes start time
+  if(inherits(df$start_time, "POSIXct")){
+    df$start_time <- format(df$start_time, "%H:%M")
+  } else {
+    numeric_start <- suppressWarnings(as.numeric(df$start_time) * 86400)
+    posixct_start <- suppressWarnings(as.POSIXct(numeric_start, origin = "1970-01-01", tz = "GMT"))
+    df$start_time <- format(posixct_start, "%H:%M")
+  }
+  
+  # Fixes finish time
+  if(inherits(df$finish_time, "POSIXct")){
+    df$finish_time <- format(df$finish_time, "%H:%M")
+  } else {
+    numeric_finish <- suppressWarnings(as.numeric(df$finish_time) * 86400)
+    posixct_finish <- suppressWarnings(as.POSIXct(numeric_finish, origin = "1970-01-01", tz = "GMT"))
+    df$finish_time <- format(posixct_finish, "%H:%M")
+  }
 
   return(df)
 })
@@ -29,10 +62,8 @@ sitespecies
 
 
 # Data cleaning
-names(sitespecies) <- tolower(names(sitespecies))
-names(sitespecies) <- gsub(" ", "_", names(sitespecies))
 sitespecies$region <- gsub(" ", "", sitespecies$region)
-sitespecies <- replace_with_na_all(sitespecies, condition = ~ .x == "N/A")
+sitespecies <- replace_with_na_if(sitespecies, is.character, condition = ~ .x == "N/A")
 sitespecies$forest_type <- gsub("Decidious","Deciduous", sitespecies$forest_type)
 sitespecies$weather <- gsub("Partly cloudy", "Partly Cloudy", sitespecies$weather)
 sitespecies$ixodes_present <- ifelse(sitespecies$ixodes_count > 0, 1, 0)
