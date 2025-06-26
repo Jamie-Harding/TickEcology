@@ -3,22 +3,22 @@ library(naniar)
 
 listedfiles <- list.files(path = "data", pattern = "CaLSeN_\\d{4}\\.xlsx$", full.names = TRUE)
 
-waypointspecieslist <- lapply(listedfiles, function(filename){
+sitespecieslist <- lapply(listedfiles, function(filename){
   
-dtfr <- read_excel(path = filename, sheet = "IxodesWaypoint")
+dtfr <- read_excel(path = filename, sheet = "SiteSpecies")
 dtfr$Date <- as.character(dtfr$Date)
 return(dtfr)}
 )
 
-ixodeswp <- do.call(rbind, waypointspecieslist)
+ixodessite <- do.call(rbind, sitespecieslist)
 
 # Data cleaning
 # Remove lone decimal points
-ixodeswp$Latitude  <- gsub("^\\.$", "", ixodeswp$Latitude)
-ixodeswp$Longitude <- gsub("^\\.$", "", ixodeswp$Longitude)
+ixodessite$Latitude  <- gsub("^\\.$", "", ixodessite$Latitude)
+ixodessite$Longitude <- gsub("^\\.$", "", ixodessite$Longitude)
 
 # Remove anything that's not a digit, minus sign, or decimal point, then convert to numeric
-ixodeswp$Latitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$Latitude))
-ixodeswp$Longitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$Longitude))
+ixodessite$Latitude <- as.numeric(gsub("[^0-9.-]", "", ixodessite$Latitude))
+ixodessite$Longitude <- as.numeric(gsub("[^0-9.-]", "", ixodessite$Longitude))
 
-write.csv(ixodeswp, "IxodesWaypoint.csv")
+write.csv(ixodessite, "C:\Users\Queer\Documents\Work\Tick Ecology\TickRemoteSensing")
