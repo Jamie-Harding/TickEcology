@@ -1,0 +1,13 @@
+---
+title: "Initial Data Cleaning Steps"
+author: "Jamie Harding"
+date: "2025-07-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+These are my steps for initially cleaning the Excel documents so they can be analyzed in R and ArcGIS

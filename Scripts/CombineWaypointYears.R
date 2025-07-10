@@ -6,19 +6,21 @@ listedfiles <- list.files(path = "data", pattern = "CaLSeN_\\d{4}\\.xlsx$", full
 waypointspecieslist <- lapply(listedfiles, function(filename){
   
 dtfrwp <- read_excel(path = filename, sheet = "IxodesWaypoint")
-dtfrwp$Date <- as.character(dtfrwp$Date)
+names(dtfrwp) <- tolower(names(dtfrwp))
+names(dtfrwp) <- gsub(" ", "_", names(dtfrwp))
+dtfrwp$date <- as.character(dtfrwp$date)
 return(dtfrwp)}
 )
 
 ixodeswp <- do.call(rbind, waypointspecieslist)
 
-# Data cleaning
+# Data cleaning for
 # Remove lone decimal points
-ixodeswp$Latitude  <- gsub("^\\.$", "", ixodeswp$Latitude)
-ixodeswp$Longitude <- gsub("^\\.$", "", ixodeswp$Longitude)
+ixodeswp$latitude  <- gsub("^\\.$", "", ixodeswp$latitude)
+ixodeswp$longitude <- gsub("^\\.$", "", ixodeswp$longitude)
 
 # Remove anything that's not a digit, minus sign, or decimal point, then convert to numeric
-ixodeswp$Latitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$Latitude))
-ixodeswp$Longitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$Longitude))
+ixodeswp$latitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$latitude))
+ixodeswp$longitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$longitude))
 
 write.csv(ixodeswp, "IxodesWaypoint.csv")
