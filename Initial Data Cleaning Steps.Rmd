@@ -11,3 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 These are my steps for initially cleaning the Excel documents so they can be analyzed in R and ArcGIS
+
+### Step 1: Changing sheetnames
+Change Site info - tick species to SiteSpecies
+Change Ixodes spp. per waypoint to IxodesWaypoint
+
+### Step 2: Change the file names to a variation of CaLSeN _{Year}
+Examples:
+CaLSeN_ON_2019
+CaLSeN_BC_2020
+CaLSeN_2021
+
+### Step 3: Ensure number of columns are the same in all files

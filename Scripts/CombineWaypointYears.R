@@ -1,7 +1,7 @@
 library(readxl)
 library(naniar)
 
-listedfiles <- list.files(path = "data", pattern = "CaLSeN_\\d{4}\\.xlsx$", full.names = TRUE)
+listedfiles <- list.files(path = "data", pattern = "CaLSeN_MK23_\\d{4}\\.xlsx$", full.names = TRUE)
 
 waypointspecieslist <- lapply(listedfiles, function(filename){
   
@@ -23,4 +23,4 @@ ixodeswp$longitude <- gsub("^\\.$", "", ixodeswp$longitude)
 ixodeswp$latitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$latitude))
 ixodeswp$longitude <- as.numeric(gsub("[^0-9.-]", "", ixodeswp$longitude))
 
-write.csv(ixodeswp, "IxodesWaypoint.csv")
+write.csv(ixodeswp, "IxodesWaypointMK23.csv")
