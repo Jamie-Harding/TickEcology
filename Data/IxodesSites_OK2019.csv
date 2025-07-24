@@ -1,0 +1,31 @@
+"Site name","Lab site ID","CLyDRN","Total ticks","Number of Ixodes scapularis","...6","...7","Number of Dermacentor variabilis","Latitude","Longitude","Total tested adult+nymph","Total positive (adult+nymph)","Total positive adult","Total positive nymph","%BB","%BM","%AP","%BAB","Site ID","...5"
+NA,NA,NA,NA,"Adult","Nymph","Larva","Adult",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Guillot Park","G10","X (OG1)",0,"0","0","0","0",45.3821983337402,-75.8183975219727,0,0,0,0,0,0,0,NA,NA,NA
+"St.- Dominique Park (area around the Hull Detention Facility)","G11","X (OG2)",1,"0","1","0","0",45.4315986633301,-75.7530975341797,1,0,0,0,0,0,0,NA,NA,NA
+"Gatineau Park – secteur Chelsea","G4","X (OG3)",1,"1","0","0","0",45.50839996,-75.81690216,1,0,0,0,0,0,0,NA,NA,NA
+"Britannia Conservation Area","01","X (OG4)",1,"1","0","0","0",45.3706016540527,-75.7928009033203,1,0,0,0,0,0,0,NA,NA,NA
+"South March Conservation Forest","09","X (OG5)",48,"40","8","0","0",45.3446006774902,-75.9461975097656,48,22,18,4,45.8333333333333,0,0,NA,NA,NA
+"Shirley’s Bay","21","X (OG6)",36,"34","2","0","0",45.362506,-75.880116,36,14,14,0,38.8888888888889,0,0,NA,NA,NA
+"Black Rapids Creek","30","X (OG7)",5,"5","0","0","0",45.321221,-75.699965,5,1,1,0,20,0,0,NA,NA,NA
+"Mer Bleue Bog","27","X (OG8)",3,"3","0","0","0",45.396800994873,-75.5205001831055,3,0,0,0,0,0,0,NA,NA,NA
+"Beacon Hill","22","X (OG9)",2,"1","1","0","0",45.4623985290527,-75.6262969970703,2,0,0,0,0,0,0,NA,NA,NA
+"Orleans, forest trails along Ottawa River (north of Cairine Wilson Secondary School towards Petrie Island)","32","X (OG10)",0,"0","0","0","0",45.4854011535645,-75.5362014770508,0,0,0,0,0,0,0,NA,NA,NA
+NA,NA,NA,NA,"Adult","Larva",NA,"Adult",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nymph"
+"Kashwakamak Lake",NA,NA,0,"0","0",NA,"0",44.86619949,-77.02570343,0,0,0,0,0,0,0,NA,"KG1","0"
+"Channelview Park",NA,NA,3,"0","0",NA,"2",44.2793998718262,-76.331298828125,1,1,0,1,100,0,0,NA,"KG2","1"
+"Little Cataraqui Creek",NA,NA,16,"3","0",NA,"0",44.28269958,-76.50920105,16,7,2,5,43.75,0,0,NA,"KG3","13"
+"Lake Opinicon (QUBS)",NA,NA,40,"5","0",NA,"12",44.56729889,-76.32489777,28,6,2,4,21.4285714285714,0,3.57,NA,"KG4","23"
+"Perth Road",NA,NA,10,"0","0",NA,"0",44.47280121,-76.49169922,10,4,0,4,40,0,0,NA,"KG5","10"
+"Roblin",NA,NA,1,"0","0",NA,"1",44.37549973,-77.01930237,0,0,0,0,0,0,0,NA,"KG6","0"
+"Napanee (park near town)",NA,NA,0,"0","0",NA,"0",44.25469971,-76.94309998,0,0,0,0,0,0,0,NA,"KG7","0"
+"Parrot’s Bay",NA,NA,10,"2","2",NA,"0",44.214900970459,-76.6940994262695,8,2,1,1,25,0,0,NA,"KG8","6"
+"Amherst Island",NA,NA,20,"0","0",NA,"0",44.138599395752,-76.799201965332,20,6,0,6,30,0,0,NA,"KG9","20"
+"Wolfe Island",NA,NA,4,"0","0",NA,"0",44.12409973,-76.45040131,4,3,0,3,75,0,0,NA,"KG10","4"
+"Arrowhead Beach Park",NA,NA,5,"1","0",NA,"0",44.23490143,-76.45079803,5,1,1,0,20,0,0,NA,"KG11","4"
+"Belle Island (Cataraqui Park)",NA,NA,0,"0","0",NA,"0",44.24980164,-76.48519897,0,0,0,0,0,0,0,NA,"KG12","0"
+"Grass Creek Park",NA,NA,0,"0","0",NA,"0",44.2971992492676,-76.3143997192383,0,0,0,0,0,0,0,NA,"KG13","0"
+"Marshlands Conservation Area",NA,NA,0,"0","0",NA,"0",44.22230148,-76.54170227,0,0,0,0,0,0,0,NA,"KG14","0"
+"ON Route Napanee (forest area behind Hwy 401 rest stop)",NA,NA,1,"0","0",NA,"0",44.27999878,-76.80370331,1,0,0,0,0,0,0,NA,"KG15","1"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,93,30,NA,NA,32.258064516129,NA,NA,NA,NA,NA

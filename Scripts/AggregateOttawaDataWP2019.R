@@ -2,6 +2,9 @@ library(readxl)
 library(dplyr)
 library(tidyr)
 library(purrr)
+library(writexl)
+library(stringr)
+library(here)
 
 process_one_file <- function(file_path) {
   df <- read_excel(file_path, sheet = "Specimen info")
@@ -53,19 +56,26 @@ process_one_file <- function(file_path) {
               Latitude = last(Latitude),
               Longitude = last(Longitude),
               Province = last(Province),
-              .groups = "drop")
+              .groups = "drop") %>%
+    # Add Region column from Site_ID prefix
+    mutate(
+      Region = case_when(
+        str_sub(Site_ID, 1, 2) == "KG" ~ "Kingston",
+        str_sub(Site_ID, 1, 2) == "OG" ~ "Ottawa-Gatineau",
+        TRUE ~ NA_character_
+      ),
+      Site_name = NA_character_,      # Add blank Site_name
+      Other_species = NA_character_   # Add blank Other_species
+    )
+  
+  # Remove GroupID at end
+  df <- df %>% select(-GroupID)
   return(df)
 }
 
-
-# Define folders CHANGE FOLDER LOCATION
-user_home <- Sys.getenv("USERPROFILE")
-folder1 <- file.path(user_home, "RStudio/TickEcology/Data/Ottawa and Kingston CaLSeN 2019/Kingston 2019")
-folder2 <- file.path(user_home, "RStudio/TickEcology/Data/Ottawa and Kingston CaLSeN 2019/Ottawa 2019")
-
 # List files matching patterns in both folders
-files1 <- list.files(path = folder1, pattern = "^Data_KG.*\\.xlsx$", full.names = TRUE)
-files2 <- list.files(path = folder2, pattern = "^Data_OG.*\\.xlsx$", full.names = TRUE)
+files1 <- list.files(path = "Data/Ottawa and Kingston CalSeN/Kingston 2019", pattern = "^Data_KG.*\\.xlsx$", full.names = TRUE)
+files2 <- list.files(path = "Data/Ottawa and Kingston CaLSeN 2019/Ottawa 2019", pattern = "^Data_OG.*\\.xlsx$", full.names = TRUE)
 
 # Combine file list
 all_files <- c(files1, files2)
@@ -77,4 +87,4 @@ combined_df <- map_dfr(all_files, process_one_file)
 View(combined_df)
 
 # Save combined result CHANGE FILE NAME
-write.csv(combined_df, "RemoteSensing/KingstonOttawa2019.csv")
+write_xlsx(combined_df, "Data/CaLSeN_OK_2019.xlsx")

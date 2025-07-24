@@ -1,5 +1,6 @@
 library(readxl)
 library(naniar)
+library(here)
 
 listedfiles <- list.files(path = "data", pattern = "CaLSeN_\\d{4}\\.xlsx$", full.names = TRUE)
 
@@ -52,5 +53,7 @@ ixodessite$startlongitude <- as.numeric(gsub("[^0-9.-]", "", ixodessite$startlon
 ixodessite$finishlatitude <- as.numeric(gsub("[^0-9.-]", "", ixodessite$finishlatitude))
 ixodessite$finishlongitude <- as.numeric(gsub("[^0-9.-]", "", ixodessite$finishlongitude))
 
-write.csv(ixodessite, "C:\\Users\\Queer\\Documents\\Work\\Tick Ecology\\TickRemoteSensing\\ixodessite.csv")
+View(ixodessite)
+
+write.csv(ixodessite, "Data/Aggregated Data/IxodesSiteGU1924.csv")
 

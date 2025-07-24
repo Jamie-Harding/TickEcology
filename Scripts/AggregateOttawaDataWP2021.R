@@ -2,6 +2,8 @@ library(readxl)
 library(dplyr)
 library(tidyr)
 library(purrr)
+library(writexl)
+library(here)
 
 process_one_file <- function(file_path) {
 # Removes (full data) files from analyzed files
@@ -17,6 +19,13 @@ process_one_file <- function(file_path) {
   names(df) <- gsub("Canopy_cover,_%", "Canopy_cover", names(df))
   names(df) <- gsub("Soil_humidity_\\(%\\)", "Soil_humidity", names(df))
   names(df) <- make.unique(names(df), sep = "_dup")
+  
+  
+  # Removes distance and canopy cover squares columns
+  df <- df %>%
+    select(
+      -matches("^distance_\\(m\\)$"), 
+      -matches("^canopy_cover_\\(squares_not_occupied\\)$"))
   
   
   # Debugging printout to see what columns the file has
@@ -35,14 +44,25 @@ process_one_file <- function(file_path) {
       df[[col]] <- NA
     }
   }
+  
+  # Adds Region column based on prefix and adds Other_species column for consistency with other datasets
+  df <- df %>%
+    mutate(
+      Region = case_when(
+        str_sub(Site_ID, 1, 2) == "KG" ~ "Kingston",
+        str_sub(Site_ID, 1, 2) == "OG" ~ "Ottawa-Gatineau",
+        TRUE ~ NA_character_
+      ),
+      Other_species = NA_character_
+    )
+  
   return(df)
 }
 
 
-# Define folders CHANGE FOLDER LOCATION
-user_home <- Sys.getenv("USERPROFILE")
-folder1 <- file.path(user_home, "RStudio/TickEcology/Data/Ottawa and Kingston CaLSeN 2021/Kingston 2021")
-folder2 <- file.path(user_home, "RStudio/TickEcology/Data/Ottawa and Kingston CaLSeN 2021/Ottawa 2021")
+# Define folders
+folder1 <- here("Data", "Ottawa and Kingston CaLSeN 2021", "Kingston 2021")
+folder2 <- here("Data", "Ottawa and Kingston CaLSeN 2021", "Ottawa 2021")
 
 # List files matching patterns in both folders
 files1 <- list.files(path = folder1, pattern = "^Data_KG.*\\.xlsx$", full.names = TRUE)
@@ -58,4 +78,4 @@ combined_df <- map_dfr(all_files, process_one_file)
 View(combined_df)
 
 # Save combined result CHANGE FILE NAME
-write.csv(combined_df, "RemoteSensing/KingstonOttawa2021.csv")
+write_xlsx(combined_df, "Data/CaLSeN_OK_2021.xlsx")

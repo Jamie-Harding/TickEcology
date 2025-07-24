@@ -1,0 +1,1063 @@
+"province","region","site_name","site_id","year","date","waypoint_number","latitude","longitude","larva","nymphs","male","females","litter_depth","soil_humidity","canopy_cover","tick_total","tick_presence","tick_density"
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",8,,,0,0,0,0,45,20,81.28,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",16,,,0,0,0,0,4,24,79.98,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",24,,,0,0,0,0,32,40,84.92,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",32,,,0,0,0,0,25,77,0,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",40,,,0,0,0,0,0,41,0,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",48,,,0,0,0,0,5,41,45.92,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",56,,,0,0,0,0,21,20,92.2,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",64,,,0,0,0,0,3,60,95.32,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",72,,,0,0,0,0,2,35,96.36,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2019,"2019-07-23",80,,,0,0,0,0,22,75,88.82,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",8,,,0,0,0,0,1,10,97.4,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",16,,,0,0,0,0,3,10,100,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",24,,,0,0,0,0,2,21,83.36,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",32,,,0,0,0,0,14,15,97.66,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",40,,,0,1,0,0,51,12,95.32,1,1,0.005
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",48,,,0,0,0,0,3,18,98.44,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",56,,,0,0,0,0,3,70,98.96,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",64,,,0,0,0,0,27,75,99.74,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",67,,,0,1,0,0,55,35,96.62,1,1,0.005
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",72,,,0,0,0,0,3,30,100,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2019,"2019-07-29",80,,,0,0,0,0,26,32,92.72,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",8,,,0,0,0,0,0,80,84.14,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",16,,,0,0,0,0,0,80,100,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",24,,,0,0,0,0,2,70,98.44,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",32,,,0,0,0,0,3,90,94.8,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",40,,,0,0,0,0,4,90,97.4,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",48,,,0,0,0,0,3,90,79.46,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",56,,,0,0,0,0,1,84,56.84,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",64,,,0,0,0,0,25,79,100,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",72,,,0,0,0,0,4,100,100,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2019,"2019-07-24",80,,,0,0,0,0,0,100,97.92,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",8,,,0,0,0,0,1,20,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",16,,,0,0,0,0,4,10,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",24,,,0,0,0,0,1,20,95.58,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",32,,,0,0,0,0,1,20,81.28,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",40,,,0,0,0,0,0,40,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",48,,,0,0,0,0,3,90,90.12,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",56,,,0,0,0,0,3,20,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",64,,,0,0,0,0,3,60,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",72,,,0,0,0,0,0,70,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2019,"2019-07-29",80,,,0,0,0,0,0,0,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",8,,,0,0,0,0,3,40,92.46,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",16,,,0,0,0,0,3,30,88.56,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",24,,,0,0,0,0,1,65,92.2,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",32,,,0,0,0,0,5,40,98.44,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",40,,,0,0,0,0,2,30,98.96,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",48,,,0,0,0,0,3,80,98.44,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",56,,,0,0,0,0,1,30,95.58,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",64,,,0,0,0,0,3,40,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",72,,,0,0,0,0,7,60,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2019,"2019-07-31",80,,,0,0,0,0,4,35,100,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",8,,,0,0,0,0,1,10,100,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",16,,,0,0,0,0,1,70,99.22,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",24,,,0,0,0,0,1,50,100,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",32,,,0,0,0,0,2,20,98.44,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",40,,,0,0,0,0,2,22,96.36,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",48,,,0,0,0,0,17,36,99.48,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",56,,,0,0,0,0,22,23,96.88,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",64,,,0,0,0,0,3,21,100,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",72,,,0,0,0,0,35,18,99.48,0,0,0
+"ON","Hamilton","Preservation Park","HM7",2019,"2019-07-31",80,,,0,0,0,0,1,20,93.76,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",8,,,0,0,0,0,1,90,70.36,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",16,,,0,0,0,0,1,100,98.18,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",24,,,0,0,0,0,1,100,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",32,,,0,0,0,0,1,90,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",40,,,0,0,0,0,2,70,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",48,,,0,0,0,0,1,70,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",56,,,0,0,0,0,2,50,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",64,,,0,0,0,0,1,70,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",72,,,0,0,0,0,1,18,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2019,"2019-08-02",80,,,0,0,0,0,1,20,91.16,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",8,,,0,0,0,0,3,20,98.44,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",16,,,0,0,0,0,3,20,96.1,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",24,,,0,0,0,0,2,10,69.58,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",32,,,0,0,0,0,1,50,92.98,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",40,,,0,0,0,0,5,80,0,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",48,,,0,0,0,0,4,20,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",56,,,0,0,0,0,4,30,94.54,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",64,,,0,0,0,0,1,30,0,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",72,,,0,0,0,0,1,18,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2019,"2019-07-23",80,,,0,0,0,0,1,50,46.96,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",8,,,0,0,0,0,4,50,93.5,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",16,,,0,0,0,0,2,70,88.56,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",24,,,0,0,0,0,1,90,98.96,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",32,,,0,0,0,0,2,80,97.92,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",40,,,0,0,0,0,3,40,94.54,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",48,,,0,0,0,0,15,39,94.54,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",56,,,0,0,0,0,2,68,98.44,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",64,,,0,0,0,0,34,47,98.44,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",72,,,0,0,0,0,22,15,98.18,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2019,"2019-07-24",80,,,0,0,0,0,32,92,100,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",8,,,0,0,0,0,3,60,89.86,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",16,,,0,0,0,0,6,70,98.96,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",24,,,0,0,0,0,1,70,94.02,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",32,,,0,0,0,0,3,30,100,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",40,,,0,0,0,0,3,40,90.9,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",48,,,0,0,0,0,1,70,100,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",56,,,0,0,0,0,2,80,100,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",64,,,0,0,0,0,1,70,90.12,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",72,,,0,0,0,0,8,50,77.64,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2019,"2019-07-23",80,,,0,0,0,0,2,20,82.58,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",5,43.73391,-80.34221,0,0,0,0,2.5,3,95,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",11,43.73369,-80.34491,0,1,0,0,2,7.5,90,1,1,0.005
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",16,43.73514,-80.34377,0,0,0,0,6,2,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",21,43.73569,-80.34263,0,0,0,0,2.5,5,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",27,43.73455,-80.34118,0,0,0,0,2,7,85,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",32,43.73391,-80.34221,0,0,0,0,1,2.5,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",38,43.73369,-80.34491,0,0,0,0,2,7,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",43,43.73514,-80.34377,0,0,0,0,2,7,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",48,43.73569,-80.34263,0,0,0,0,2,2.5,95,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",54,43.73455,-80.34118,0,0,0,0,1,9,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",59,43.73391,-80.34221,0,0,0,0,1.5,1.5,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",65,43.73369,-80.34491,0,0,0,0,2.5,6.5,85,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",70,43.73514,-80.34377,0,0,0,0,3.5,2.5,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",75,43.73569,-80.34263,0,0,0,0,1.5,3,90,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2021,"2021-07-21",80,43.73455,-80.34118,0,0,0,0,1,6,75,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",8,43.358349,-80.155634,0,0,0,0,0,7,75,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",16,43.3892,-80.19744,0,0,1,0,1,7.5,75,1,1,0.005
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",24,43.389212,-80.15889,0,0,0,0,1,5.5,95,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",32,43.390542,-80.152997,0,0,0,0,0.5,9,95,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",40,43.392107,-80.154372,0,0,0,0,1,2.5,95,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",48,43.389,-80.19744,0,0,0,0,1,4.5,75,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",56,43.38924,-80.19811,0,0,0,0,1,7,75,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",64,43.38921,-80.15188,0,0,0,0,3,1,85,0,0,0
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",72,43.37645,-80.15594,0,0,0,1,2.5,7,90,1,1,0.005
+"ON","Hamilton","Valens Lake Conservation Area","HM10",2021,"2021-07-22",80,43.39018,-80.15245,0,0,0,0,3,4.5,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",8,43.282263,-80.028173,0,0,0,0,1,8,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",16,43.282758,-80.029247,0,0,0,0,0.5,6,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",24,43.252578,-80.029747,0,0,0,0,0.5,1,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",32,43.279458,-80.032172,0,0,0,0,2,7,90,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",40,43.280967,-80.028029,0,0,0,0,2,7.5,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",48,43.28398,-80.0348,0,0,0,0,2,6.5,95,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",56,43.29081,-80.03759,0,0,1,0,1,5.5,75,1,1,0.005
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",64,43.251134,-80.03132,0,0,0,0,3,4,90,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",72,43.278996,-80.031984,0,0,0,0,3,8.5,85,0,0,0
+"ON","Hamilton","Christie Lake Conservation Area","HM2",2021,"2021-07-22",80,43.28049,-80.02185,0,0,0,0,1,9,85,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",8,43.36544,-80.15018,0,0,0,0,2,7,80,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",16,43.36654,-80.15031,0,0,0,0,1.5,5,95,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",24,43.36584,-80.1484,0,0,0,0,3,4.5,90,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",32,43.36683,-80.15096,0,0,0,0,4,2.5,90,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",40,43.3646,-80.1512,0,0,0,0,3.5,4,95,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",48,43.36544,-80.15018,0,0,0,0,0,8,100,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",56,43.36654,-80.15031,0,0,0,0,1,6,90,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",64,43.36584,-80.1484,0,0,0,0,2,5,100,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",72,43.36683,-80.15096,0,0,0,0,4,3,95,0,0,0
+"ON","Hamilton","Guelph Lake Conservation Area","HM3",2021,"2021-07-21",80,43.5646,-80.1512,0,0,0,0,1,2,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",8,43.49811,-79.96805,0,0,0,0,4,0.5,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",16,43.47276,-79.94078,0,0,0,0,3.5,8,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",24,43.46783,-79.95581,0,0,0,0,2.5,5,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",32,43.49703,-79.965957,0,0,0,0,3,6,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",40,43.49998,-79.9656,0,0,0,0,4,6,85,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",48,43.50544,-79.9662,0,0,0,0,4.5,5.5,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",56,43.50568,-79.96786,0,0,0,0,4,6.5,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",64,43.50721,-79.96983,0,0,0,0,5,5,95,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",72,43.50753,-79.96729,0,0,0,0,6,7,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM4",2021,"2021-07-23",80,43.50774,-79.96475,0,0,0,0,2.5,6,90,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",8,43.248762,-79.99183,0,0,0,0,0,1,75,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",16,43.248859,-79.9918,0,0,0,0,1,3,95,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",24,43.246861,-79.992923,0,0,0,0,0.5,6.5,95,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",32,43.248144,-79.990322,0,0,0,0,2.5,9,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",40,43.2493,-79.987699,0,0,0,0,2.5,3,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",48,43.248762,-79.991836,0,0,0,0,0,6,95,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",56,43.24965,-79.99147,0,0,0,0,5.5,6,100,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",64,43.2484,-79.99427,0,0,0,0,2.5,4.5,90,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",72,43.248144,-79.990322,0,0,0,0,2,6.5,90,0,0,0
+"ON","Hamilton","Dundas Valley Conservation Area","HM5",2021,"2021-07-30",80,43.24947,-79.98773,0,0,0,0,3,7,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",5,43.102,-80.2311,0,0,0,0,2,4,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",11,43.265874,-80.38683,0,0,0,0,1,4,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",16,43.265342,-80.385389,0,0,0,0,2,4.5,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",22,43.263678,-80.384052,0,0,0,0,0.5,3,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",27,43.263789,-80.384025,0,0,0,0,1,7,100,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",32,43.102,-80.2311,0,0,0,0,2,5,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",38,43.265874,-80.38683,0,0,0,0,1,4,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",43,43.263678,-80.384052,0,0,0,0,1.5,2,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",49,43.263678,-80.384052,0,0,0,0,1,2,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",54,43.263789,-80.384025,0,0,0,0,0.5,3,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",59,43.102,-80.2311,0,0,0,0,2,5,95,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",65,43.265874,-80.38683,0,0,0,0,1,6,100,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",70,43.263678,-80.384052,0,0,0,0,3,8,100,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",75,43.263678,-80.384052,0,0,0,0,2,3,100,0,0,0
+"ON","Hamilton","Pinehurst Lake Conservation Area","HM6",2021,"2021-08-19",80,43.263699,-80.384035,0,0,0,0,1,8,100,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",5,43.30737,-80.13463,0,0,0,0,3.5,4.5,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",11,43.30867,-80.13482,0,0,0,0,1,9,95,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",16,43.3087,-80.13483,0,0,0,0,1,8.5,95,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",21,43.30798,-80.13465,0,0,0,0,2,9,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",27,43.30741,-80.13481,0,0,0,0,1.5,8.5,85,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",32,43.30787,-80.13463,0,0,0,0,1,6,85,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",38,43.30867,-80.13482,0,0,0,0,1.5,7.5,95,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",43,43.3087,-80.13483,0,0,0,0,1,6,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",48,43.30748,-80.13465,0,0,0,0,0.5,1,85,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",54,43.30741,-80.13481,0,0,0,0,0.5,5.5,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",59,43.30782,-80.13463,0,0,0,0,2,7,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",65,43.30867,-80.13482,0,0,0,0,0.5,1,100,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",70,43.3087,-80.13483,0,0,0,0,0,1,90,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",75,43.30798,-80.13465,0,0,0,0,1,1,100,0,0,0
+"ON","Hamilton","Preservaton Park","HM7",2021,"2021-07-16",80,43.30741,-80.13481,0,0,0,0,3,8,100,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",8,43.518282,-79.605955,0,0,0,1,2,5.5,95,1,1,0.005
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",16,43.519951,-79.607339,0,0,0,0,1,3.5,95,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",24,43.520332,-79.60857,0,0,0,0,1,4,95,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",32,43.518528,-79.605311,0,0,0,0,2,3,95,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",40,43.519357,-79.60409,0,0,0,0,1.5,5.5,95,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",48,43.5165,-79.6233,0,0,0,0,6.5,5.5,90,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",56,43.511,-79.6184,0,0,0,0,3,7,85,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",64,43.5201,-79.6098,0,0,0,0,3.5,3,95,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",72,43.5189,-79.6086,0,0,0,0,6.5,2.5,85,0,0,0
+"ON","Hamilton","Rattray Marsh Conservation Area","HM8",2021,"2021-07-15",80,43.5197,-79.6053,0,0,0,0,4,6,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",8,43.32996,-80.32969,0,0,0,0,1.5,9.5,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",16,43.33002,-80.10735,0,0,0,0,2,1,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",24,43.33069,-80.10583,0,0,0,0,0.5,7.5,90,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",32,43.33139,-80.10464,0,0,0,0,1,5,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",40,43.33211,-80.10389,0,0,0,0,2,6,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",48,43.32969,-80.10856,0,0,0,0,1,6.5,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",56,43.33002,-80.10735,0,0,0,0,2,9,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",64,43.33069,-80.10583,0,0,0,0,0.5,6.5,85,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",72,43.33139,-80.10464,0,0,0,0,0.5,3.5,95,0,0,0
+"ON","Hamilton","Smith Loop Trail","HM9",2021,"2021-07-19",80,43.33211,-80.10389,0,0,0,0,0,9,85,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",8,45.38972,-79.21199,0,0,0,0,2,2.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",16,45.39002,-79.20773,0,0,0,0,2.5,2,95,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",24,45.38883,-79.20574,0,0,0,0,2,3.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",32,45.38753,-79.20679,0,0,0,0,2.5,3,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",40,45.38632,-79.20923,0,0,0,0,2,2,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",48,45.38972,-79.21199,0,0,0,0,2.5,1,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",56,45.39002,-79.20773,0,0,0,0,2.5,1,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",64,45.38883,-79.20574,0,0,0,0,1.5,1.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",72,45.38753,-79.20679,0,0,0,0,1.5,2.5,95,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2021,"2021-07-28",80,45.38632,-79.20923,0,0,0,0,1,3,100,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",8,45.009504,-79.526601,0,0,0,0,0,2,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",16,45.005085,-79.522832,0,0,0,0,1,4,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",24,45.006637,-79.525523,0,0,0,0,1.5,4,90,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",32,45.006755,-79.527933,0,0,0,0,1.5,3,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",40,45.008011,-79.530149,0,0,0,0,0.5,1,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",48,45.009504,-79.526601,0,0,0,0,0.5,1,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",56,45.005085,-79.522832,0,0,0,0,1,2.5,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",64,45.006637,-79.525523,0,0,0,0,0.5,2,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",72,45.006755,-79.527933,0,0,0,0,3,3.5,95,0,0,0
+"ON","Muskoka","Hardy Lake","MU2",2021,"2021-07-28",80,45.008011,-79.530149,0,0,0,0,0.5,1.5,100,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",8,45.35616,-80.19479,0,0,0,0,1.5,9,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",16,45.35702,-80.29221,0,0,0,0,1.5,6.5,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",24,45.35025,-80.18967,0,0,0,0,2,5,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",32,45.35958,-80.18849,0,0,0,0,2,8,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",40,45.36083,-80.18635,0,0,0,0,2,4,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",48,45.35616,-80.19479,0,0,0,0,2,5,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",56,45.35702,-80.19221,0,0,0,0,2,6,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",64,45.35825,-80.18967,0,0,0,0,2.5,4,95,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",72,45.35958,-80.18849,0,0,0,0,2,4,90,0,0,0
+"ON","Muskoka","Killbear Park","MU3",2021,"2021-07-27",80,45.36083,-80.18635,0,0,0,0,3.5,6.5,95,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",8,44.89568,-79.75559,0,0,0,0,1.5,4,95,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",16,44.89737,-79.75559,0,0,0,0,2.5,8,95,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",24,44.89522,-79.75838,0,0,0,0,2,5,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",32,44.89999,-79.75489,0,0,0,0,1.5,3,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",40,44.87779,-79.75611,0,0,0,0,0,2.5,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",48,44.89568,-79.75718,0,0,0,0,1.5,4,95,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",56,44.89737,-79.75838,0,0,0,0,2,5,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",64,44.89522,-79.75489,0,0,0,0,3,5.5,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",72,44.89999,-79.75611,0,0,0,0,1.5,2.5,90,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2021,"2021-07-26",80,44.87779,-79.75718,0,0,0,0,1,2,85,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",8,43.73553333,-80.3433,0,0,0,0,1.5,5.5,87.496,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",16,43.73461667,-80.3442,0,0,0,0,1.7,6.2,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",24,43.73313333,-80.3439,0,0,0,0,3.2,6.5,66.656,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",32,43.73406667,-80.34231667,0,0,0,0,1.9,6.5,91.664,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",40,43.73498333,-80.34156667,0,0,0,0,1.8,8,79.16,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",48,43.73548333,-80.34296667,0,0,0,0,0.5,6.5,49.984,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",56,43.73481667,-80.34368333,0,0,0,0,1.5,6.1,83.328,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",64,43.73341667,-80.34405,0,0,0,0,3,9,58.32,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",72,43.73401667,-80.34241667,0,0,0,0,6,8.6,70.824,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2022,"2022-06-10",80,43.73496667,-80.34186667,0,0,0,0,1.5,9.5,0,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",8,43.26671667,-80.38645,0,0,0,0,5.8,6.3,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",16,43.26535,-80.38551667,0,0,0,0,4.3,6.2,95.832,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",24,43.26281667,-80.38555,0,0,0,0,3.2,6,0,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",32,43.26321667,-80.38403333,0,0,0,0,4.3,8.2,79.16,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",40,43.2666,-80.38655,0,0,0,0,4.7,6.7,83.328,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",48,43.26545,-80.38535,0,0,0,0,3.7,6.3,87.496,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",56,43.26281667,-80.38538333,0,0,0,0,3.3,9,83.328,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",64,43.26321667,-80.38403333,0,0,0,0,4.3,4.3,79.16,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",72,43.26281667,-80.38555,0,0,0,0,4.1,4.7,41.648,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2022,"2022-06-09",80,43.26321667,-80.38403333,0,0,0,0,8,6.9,91.664,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",8,43.50681667,-79.96495,0,0,0,0,2.4,4.3,95.832,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",16,43.50836667,-79.96516667,0,0,0,0,3.6,7,83.328,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",24,43.5105,-79.97038333,0,0,0,0,3.7,3.5,87.496,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",32,43.51145,-79.97141667,0,0,0,0,4.7,4.5,79.16,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",40,43.50681667,-79.9651,0,0,0,0,3.7,5.2,91.664,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",48,43.50826667,-79.96536667,0,0,0,0,3.3,7.2,91.664,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",56,43.51051667,-79.97038333,0,0,0,0,3.3,6.3,79.16,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",64,43.51141667,-79.97138333,0,0,0,0,3.3,4.7,79.16,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",72,43.51051667,-79.97038333,0,0,0,1,3,5,70.824,1,1,0.005
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2022,"2022-06-08",80,43.51141667,-79.97138333,0,0,1,0,4,4,79.16,1,1,0.005
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",8,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",16,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",24,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",32,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",40,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",48,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",56,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",64,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",72,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2022,"2022-06-02",80,,,0,0,0,0,,,,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",8,43.38336667,-80.14546667,0,0,0,0,1.5,6,66.656,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",16,43.3834,-80.14403333,0,0,0,0,0,7.2,100,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",24,43.38365,-80.14748333,0,0,0,0,3.2,9.5,87.496,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",32,43.39035,-80.14086667,0,0,0,0,2.5,7,66.656,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",40,43.39046667,-80.14335,0,0,0,0,0.5,5.5,87.496,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",48,43.38348333,-80.14788333,0,0,0,0,0.7,4,91.664,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",56,43.38338333,-80.14388333,0,0,0,0,1.6,7,66.656,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",64,43.38348333,-80.14745,0,0,0,0,3.5,8.3,70.824,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",72,43.39021667,-80.1408,0,0,0,0,4.1,6.3,0,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2022,"2022-06-13",80,43.39048333,-80.14338333,0,0,1,0,2.7,6,100,1,1,0.005
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-13",8,45.3917,-79.2219,0,0,0,0,3.7,1.2,83.328,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-14",16,45.39301667,-79.22308333,0,0,0,0,7.2,1.8,95.832,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-15",24,45.39148333,-79.21898333,0,0,0,0,4.8,2,91.664,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-16",32,45.38951667,-79.21765,0,0,0,0,3.5,1,37.48,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-17",40,45.39051667,-79.21976667,0,0,0,0,4.2,4.7,0,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-18",48,45.39175,-79.2221,0,0,0,0,3.7,2.3,87.496,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-19",56,45.39263333,-79.22308333,0,0,0,0,3.3,2.7,87.496,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-20",64,45.39156667,-79.21911667,0,0,0,0,2.3,1.8,79.16,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-21",72,45.38866667,-79.21765,0,0,0,0,2.7,2.2,87.496,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2022,"2022-07-22",80,45.39053333,-79.21975,0,0,0,0,2.3,2.2,74.992,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-23",8,45.00193333,-79.52198333,0,0,0,0,1.7,1.7,95.832,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-24",16,45.00076667,-79.525,0,0,0,0,2.7,2.5,79.16,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-25",24,44.99956667,-79.52716667,0,0,0,0,2.3,1.2,87.496,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-26",32,45.0009,-79.52911667,0,0,0,0,2.7,2.8,91.664,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-27",40,45.00236667,-79.52778333,0,0,0,0,2.2,1.5,79.16,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-28",48,45.00185,-79.5219,0,0,0,0,3.7,1,87.496,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-29",56,45.00085,-79.52491667,0,0,0,0,3.5,1.7,74.992,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-30",64,44.99953333,-79.52716667,0,0,0,0,5.8,1.7,100,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-07-31",72,45.001,-79.529,0,0,0,0,2.9,1.5,100,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2022,"2022-08-01",80,45.00241667,-79.52788333,0,0,0,0,1.2,1,70.824,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",8,45.35608333,-80.19513333,0,0,0,0,2.9,1.8,0,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",16,45.35591667,-80.19021667,0,0,0,0,2.6,3,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",24,45.35848333,-80.19123333,0,0,0,0,2.6,5.5,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",32,45.35811667,-80.18763333,0,0,0,0,1.8,1.2,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",40,45.3596,-80.18586667,0,0,0,0,2.8,2.2,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",48,45.35606667,-80.19616667,0,0,0,0,2.7,5.7,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",56,45.35698333,-80.19278333,0,0,0,0,3,5.5,95.832,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",64,45.35851667,-80.1913,0,0,0,0,2.3,6.5,91.664,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",72,45.35813333,-80.18765,0,0,0,0,2.3,1.3,83.328,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2022,"2022-07-15",80,45.35976667,-80.18568333,0,0,0,0,2.5,6,91.664,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",8,44.8959,-79.7569,0,0,0,0,2.6,1.2,62.488,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",16,44.89721667,-79.7587,0,0,0,0,2,1.2,66.656,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",24,44.66475,-79.7594,0,0,0,0,2.5,1,54.152,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",32,44.89966667,-79.75945,0,0,0,0,2.3,2,100,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",40,44.9017,-79.75866667,0,0,0,0,1.8,1.3,83.328,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",48,44.89583333,-79.75696667,0,0,0,0,2.7,2.1,0,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",56,44.89728333,-79.75876667,0,0,0,0,3.7,3,70.824,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",64,44.89803333,-79.75933333,0,0,0,0,2.7,1.7,66.656,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",72,44.89973333,-79.75955,0,0,0,0,3.3,1.7,49.984,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2022,"2022-07-14",80,44.9016,-79.7589,0,0,0,0,2.3,1.7,87.496,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",8,45.31131667,-79.97826667,0,0,0,0,1.7,1,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",16,45.3101,-79.97566667,0,0,0,0,2.7,2,95.832,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",24,45.30895,-79.97251667,0,0,0,0,0,3.5,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",32,45.3083,-79.96951667,0,0,0,0,2,1.3,58.32,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",40,45.30855,-79.9827,0,0,0,0,1.7,1.3,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",48,45.31138333,-79.97835,0,0,0,0,0.9,1.7,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",56,45.3101,-79.97573333,0,0,0,0,2.6,1.2,45.816,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",64,45.30895,-79.97261667,0,0,0,0,0,1.5,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",72,45.30833333,-79.96958333,0,0,0,0,1.8,1.2,74.992,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2022,"2022-07-14",80,45.3085,-79.98288333,0,0,0,0,1.8,1,70.824,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",8,46.58588333,-84.28316667,0,0,0,0,2.1,1.7,79.16,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",16,46.58588333,-84.26968333,0,0,0,0,4.1,2.2,91.664,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",24,46.58686667,-84.2707,0,0,0,0,3.1,1.8,70.824,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",32,46.5888,-84.27036667,0,0,0,0,1.3,2,41.648,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",40,46.58938333,-84.268,0,0,0,0,2.6,2,83.328,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",48,46.58641667,-84.26666667,0,0,0,0,1.8,1.2,87.496,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",56,46.58586667,-84.26978333,0,0,0,0,2.3,1.5,91.664,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",64,46.58678333,-84.27045,0,0,0,0,3.3,2.2,87.496,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",72,46.58876667,-84.2701,0,0,0,0,3.3,1.7,79.16,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2022,"2022-07-22",80,46.58935,-84.26808333,0,0,0,0,2,2.7,74.992,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",8,46.54188333,-84.34685,0,0,0,0,1.3,3,100,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",16,46.54323333,-84.34633333,0,0,0,0,1.8,4.8,100,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",24,46.54413333,-84.34555,0,0,0,0,1.7,3.3,87.496,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",32,46.54518333,-84.34475,0,0,0,0,3.2,7.3,100,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",40,46.5461,-84.34378333,0,0,0,0,3,5.5,83.328,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",48,46.54191667,-84.34683333,0,0,0,0,3.3,5.7,100,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",56,46.54326667,-84.34643333,0,0,0,0,2.7,8.3,83.328,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",64,46.54426667,-84.34555,0,0,0,0,2.3,6.2,87.496,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",72,46.54528333,-84.34478333,0,0,0,0,2.7,6.5,79.16,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2022,"2022-07-22",80,46.5462,-84.34358333,0,0,0,0,2.7,6.5,91.664,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,8,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,16,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,24,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,32,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,40,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,48,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,56,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,64,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,72,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2022,,80,,,,,,,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",8,46.50855,-84.52988333,0,0,0,0,2.9,1,87.496,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",16,46.50648333,-84.52941667,0,0,0,0,2.8,1.3,62.488,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",24,46.50431667,-84.52983333,0,0,0,0,3.1,1.7,70.824,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",32,46.66875,-84.52948333,0,0,0,0,1.9,1.5,100,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",40,46.49988333,-84.52981667,0,0,0,0,2.4,2.3,100,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",48,46.50855,-84.52985,0,0,0,0,2.7,2.2,87.496,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",56,46.50645,-84.52938333,0,0,0,0,2.3,1.7,87.496,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",64,46.50425,-84.5298,0,0,0,0,2,1.7,62.488,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",72,46.50208333,-84.52948333,0,0,0,0,3.2,1.7,74.992,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2022,"2022-07-21",80,46.49988333,-84.52986667,0,0,0,0,2.7,2.5,83.328,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",8,46.97211667,-84.7012,0,0,0,0,3,2.3,95.832,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",16,46.973,-84.69875,0,0,0,0,1.9,2,100,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",24,46.97213333,-84.69626667,0,0,0,0,3,1.5,87.496,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",32,46.97253333,-84.69356667,0,0,0,0,2.9,2.8,83.328,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",40,46.9725,-84.69075,0,0,0,0,1.8,2,91.664,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",48,46.972,-84.70098333,0,0,0,0,3.3,1.8,87.496,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",56,46.97305,-84.69868333,0,0,0,0,2.3,1.2,87.496,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",64,46.97213333,-84.69618333,0,0,0,0,2.7,2.2,91.664,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",72,46.97248333,-84.69348333,0,0,0,0,3.3,1.7,91.664,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2022,"2022-07-23",80,46.97246667,-84.69065,0,0,0,0,2.3,2.5,91.664,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",8,43.1632,-81.65365,0,0,0,0,3.2,5.8,95.832,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",16,43.16285,-81.65176667,0,0,0,0,5.4,4.5,66.656,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",24,43.16166667,-81.64945,0,0,0,0,2.8,4.3,100,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",32,43.16121667,-81.64998333,0,0,0,0,2.3,7.2,70.824,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",40,43.16271667,-81.6471,0,0,0,0,2.7,7.7,100,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",48,43.16315,-81.6537,0,2,0,0,0.7,8,54.152,2,1,0.01
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",56,43.16263333,-81.6537,0,0,0,0,3.2,2.5,49.984,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",64,43.16166667,-81.65168333,0,0,0,0,1.7,4.5,49.984,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",72,43.16111667,-81.64955,0,0,0,0,1,7,0,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2022,"2022-06-14",80,43.16275,-81.65001667,0,0,0,0,3.2,7.5,91.664,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",8,42.88388333,-81.47425,0,0,0,0,1,5,83.328,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",16,42.88458333,-81.47208333,0,0,1,0,4.2,6.2,79.16,1,1,0.005
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",24,42.88396667,-81.47231667,0,0,0,0,3,3,79.16,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",32,42.89996667,-81.47375,0,0,0,0,3.5,4.2,62.488,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",40,42.88391667,-81.47545,0,0,0,0,0.5,4,79.16,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",48,42.88398333,-81.4743,0,0,0,0,1.8,6,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",56,42.88453333,-81.47208333,0,0,0,0,2.3,6.7,83.328,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",64,42.88386667,-81.47221667,0,0,0,0,3.4,2,91.664,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",72,42.88333333,-81.47373333,0,0,0,0,2.9,6.3,87.496,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2022,"2022-06-14",80,42.88385,-81.47548333,0,0,0,0,2.8,4.3,62.488,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",8,42.91481667,-80.96343333,0,0,0,0,4.5,6.8,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",16,42.91715,-80.961,0,0,0,0,2.4,6.7,0,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",24,42.91858333,-80.96123333,0,0,0,0,1.9,7.3,41.648,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",32,42.91993333,-80.96271667,0,0,0,0,3.1,3,79.16,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",40,42.91963333,-80.96428333,0,0,0,0,0,7,0,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",48,42.91495,-80.95838333,0,0,0,0,1.8,8,74.992,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",56,42.91485,-80.95841667,0,0,0,0,1.5,6.8,0,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",64,42.91726667,-80.96075,0,0,0,0,1.8,3.5,29.144,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",72,42.91986667,-80.9627,0,0,0,0,4,2,12.472,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2022,"2022-06-16",80,42.9196,-80.96431667,0,0,0,0,1.5,6.4,74.992,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",8,42.74845,-81.01771667,0,0,0,0,3.8,5,83.328,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",16,42.74681667,-81.01826667,0,0,1,2,3.2,5.3,87.496,3,1,0.015
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",24,42.74538333,-81.01716667,0,0,0,1,2.2,4.2,74.992,1,1,0.005
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",32,42.74356667,-81.01675,0,0,0,0,3.9,1.8,95.832,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",40,42.74246667,-81.01801667,0,0,0,0,2.2,4.8,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",48,42.74865,-81.01955,0,0,0,0,1.1,3.5,70.824,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",56,42.74685,-81.01826667,0,0,0,0,0.7,3,95.832,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",64,42.74538333,-81.01743333,0,0,0,0,0.5,3.2,79.16,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",72,42.74368333,-81.01703333,0,0,0,0,3.5,2.5,70.824,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2022,"2022-06-15",80,42.74231667,-81.01821667,0,0,0,0,2,4.8,66.656,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",8,43.0557,-81.17903333,0,0,0,0,2.2,3,95.832,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",16,43.05518333,-81.17623333,0,0,0,0,2.8,5,83.328,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",24,43.05366667,-81.1752,0,0,0,0,4.1,3.3,87.496,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",32,43.04746667,-81.1748,0,0,0,0,0.4,2.7,100,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",40,43.04735,-81.17735,0,0,0,0,1.5,3,100,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",48,43.05568333,-81.17896667,0,0,0,0,1.5,3.1,41.648,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",56,43.05518333,-81.17618333,0,0,0,0,3,5.6,87.496,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",64,43.0537,-81.17521667,0,0,0,0,3.5,2.4,83.328,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",72,43.0477,-81.17488333,0,0,0,0,0.5,1.7,49.984,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2022,"2022-06-24",80,43.04728333,-81.1773,0,0,0,0,1.8,3.8,66.656,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",8,44.40491667,-78.76841667,0,0,0,0,2.7,3.5,45.816,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",16,44.40368333,-78.76788333,0,0,1,0,2.3,2.7,0,1,1,0.005
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",24,44.40288333,-78.77038333,0,0,0,0,2.3,2.3,83.328,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",32,44.4025,-78.7729,0,0,0,0,3.3,3.7,66.656,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",40,44.4041,-78.77283333,0,0,0,0,1.7,3.7,83.328,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",48,44.40496667,-78.7685,0,0,0,0,3.4,3.8,29.144,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",56,44.40365,-78.76798333,0,0,0,0,3.8,3.8,37.48,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",64,44.40286667,-78.77041667,0,0,0,0,3.3,4,91.664,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",72,44.40253333,-78.77288333,0,0,0,0,2.9,5.7,100,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2022,"2022-07-07",80,44.40398333,-79.77273333,0,0,0,0,2.1,6.3,100,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",8,44.26851667,-78.60716667,0,0,0,0,1.6,1,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",16,44.267,-78.60523333,0,0,0,0,4.1,2.5,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",24,44.2675,-78.60315,0,0,0,0,4,3.8,100,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",32,44.26851667,-78.60716667,0,0,0,0,2.3,0.7,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",40,44.267,-78.60523333,0,0,0,0,2,2,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",48,44.2675,-78.60315,0,0,0,0,2,2,66.656,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",56,44.2685,-78.60731667,0,0,0,0,2,1,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",64,44.26698333,-78.6051,0,0,0,0,0.8,2.5,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",72,44.26753333,-78.60313333,0,0,0,0,3,2,91.664,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2022,"2022-06-27",80,44.26755,-78.60315,0,0,0,0,2.6,1.7,66.656,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",8,44.3135,-78.34216667,0,0,0,0,2.7,3.3,79.16,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",16,44.3119,-78.33995,0,0,1,0,4.5,6.3,95.832,1,1,0.005
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",24,44.3122,-78.33935,0,0,0,0,3.1,6.5,100,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",32,44.31403333,-78.34105,0,0,0,0,1.9,4.7,100,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",40,44.31451667,-78.34206667,0,0,0,0,3.1,2.5,74.992,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",48,44.31338333,-78.34193333,0,0,0,0,1,5.3,66.656,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",56,44.3119,-78.34001667,0,0,0,0,2.3,4.2,83.328,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",64,44.31221667,-78.33916667,0,0,0,0,1.2,4.7,87.496,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",72,44.31388333,-78.34086667,0,0,0,0,1.7,5.2,83.328,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2022,"2022-07-06",80,44.31453333,-78.34211667,0,0,0,0,1.3,2.5,66.656,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,8,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,16,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,24,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,32,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,40,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,48,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,56,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,64,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,72,,,,,,,,,,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2022,,80,,,,,,,,,,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",8,44.47728333,-78.34131667,0,0,0,0,3.3,5.7,0,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",16,44.4746,-78.34056667,0,0,0,0,1.3,7.7,0,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",24,44.48321667,-78.34146667,0,0,1,0,2.7,5.3,79.16,1,1,0.005
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",32,44.48098333,-78.3418,0,0,0,0,3.7,5.7,83.328,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",40,44.48131667,-78.3442,0,0,1,0,2.7,5.7,83.328,1,1,0.005
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",48,44.47736667,-78.34403333,0,0,0,0,1.4,7,58.32,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",56,44.4746,-78.34126667,0,0,0,0,3.2,7.8,29.144,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",64,44.47978333,-78.34645,0,0,0,0,4.7,5.2,95.832,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",72,44.48098333,-78.34765,0,0,0,0,4.1,6.2,100,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2022,"2022-07-06",80,44.48131667,-78.34798333,0,0,0,0,4.3,5.3,100,0,0,0
+,,,,,,,,,0,0,0,2,8,4,,2,1,0.01
+,,,,,,,,,,,,,,,,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",8,43.44018,-80.205,0,0,0,0,0,5.8,66.656,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",16,43.4399,-80.20649,0,0,0,0,0,6.9,93.748,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",24,43.44079,-80.20637,0,0,0,0,0,6,95.832,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",32,43.44155,-80.20612,0,0,0,0,0,5.1,83.328,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",40,43.44088,-80.20516,0,0,0,0,0,6,70.824,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",48,43.73329,-80.34193,0,0,0,0,0.5,6,77.076,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",56,43.73303,-80.3441,0,0,0,0,0,7,49.984,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",64,43.7345,-80.34408,0,0,0,0,0,4,66.656,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",72,43.73579,-80.34322,0,0,0,0,0.5,4.3,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2023,"2023-06-20",80,43.73486,-80.34186,0,0,0,0,0.5,6.3,95.832,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",8,43.15968,-80.23222,0,0,0,0,3,7.1,83.328,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",16,43.15916,-80.2311,0,0,0,0,1.5,7,97.916,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",24,43.15783,-80.23144,0,0,0,0,0,4,29.144,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",32,43.15728,-80.23047,0,0,0,1,3,9.5,94.79,1,1,0.005
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",40,43.15821,-80.23053,0,0,0,0,3.5,5,95.832,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",48,43.26623,-80.38706,0,0,0,0,1,5,98.958,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",56,43.26518,-80.38522,0,0,0,0,2,5.3,93.748,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",64,43.2629,-80.38572,0,0,0,0,0,5.3,18.724,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",72,43.26202,-80.3842,0,0,0,0,0.5,5.6,98.958,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2023,"2023-07-20",80,43.26387,-80.38412,0,0,0,0,1,6.3,98.958,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",8,43.30458,-79.58005,0,0,0,0,8.5,5.5,87.496,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",16,43.30487,-79.5809,0,0,0,0,8.8,4,87.496,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",24,43.3044,-79.582,0,0,0,0,9.5,5.1,91.664,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",32,43.30383,-79.58296,0,0,0,0,10,4,92.706,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",40,43.30326,-79.58353,0,0,0,0,5,5.1,88.538,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",48,43.3045,-79.58002,0,0,0,0,4,3.8,43.732,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",56,43.30481,-79.58091,0,0,0,0,6,8,86.454,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",64,43.30487,-79.581,0,0,0,0,3,7.6,72.908,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",72,43.30385,-79.58256,0,0,0,1,3,3.3,95.832,1,1,0.005
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2023,"2023-05-20",80,43.30322,-79.58375,0,0,0,0,3,7.6,83.328,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",8,43.30639,-80.1326,0,0,0,0,4,8,96.874,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",16,43.30563,-80.13163,0,0,0,0,1.5,3.5,94.79,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",24,43.30471,-80.12975,0,0,0,0,5,5,97.916,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",32,43.40166,-80.13344,0,0,0,0,0,3.5,79.16,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",40,43.30182,-80.1364,0,0,0,0,0,1.7,0,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",48,43.51063,-80.22146,0,0,0,0,3,6.3,94.79,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",56,43.50926,-80.21626,0,0,0,0,1,4,95.832,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",64,43.5078,-80.21928,0,0,0,0,1,5,94.79,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",72,43.50243,-80.22221,0,0,0,0,0,3.3,18.724,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2023,"2023-05-20",80,43.50305,-80.22723,0,0,0,0,0,4,0,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",8,43.23002,-80.08729,0,0,0,1,1,4.4,24.976,1,1,0.005
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",16,42.23018,-80.0865,0,0,0,0,4,6.1,0,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",24,43.22993,-80.08589,0,0,0,0,5,7.5,0,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",32,43.22991,-80.08811,0,0,0,0,4,8.5,88.538,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",40,43.22905,-80.08673,0,0,0,0,5.5,6.2,24.976,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",48,43.38396,-80.14547,0,0,1,0,0,4.6,79.16,1,1,0.005
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",56,43.3835,-80.14409,0,0,0,1,3,4.6,0,1,1,0.005
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",64,43.3837,-80.1425,0,0,0,0,2,8,47.9,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",72,43.22989,-80.0879,0,0,0,0,3,9.6,83.328,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2023,"2023-05-20",80,43.22901,-80.08657,0,0,0,0,3,9.6,35.396,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",8,45.23259,-79.12095,0,0,0,0,5.5,1,92.706,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",16,45.23102,-79.12201,0,0,0,0,0.5,1,93.748,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",24,45.23015,-79.12372,0,0,0,0,3,1.3,83.328,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",32,45.22953,-79.12544,0,0,0,0,4,2.1,95.832,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",40,45.23042,-79.12403,0,0,0,0,3,1.3,94.9984,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",48,45.38756,-79.20163,0,0,0,0,1,1,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",56,45.38494,-79.20353,0,0,0,0,2,1,97.916,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",64,45.38361,-79.20622,0,0,0,0,0.5,2.6,86.454,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",72,45.38249,-79.20911,0,0,0,0,1.5,1.3,98.958,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2023,"2023-06-20",80,45.3841,-79.20657,0,0,0,0,1.5,1,100,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",8,,-79.31287,0,0,0,0,0.8,1,79.16,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",16,45.00323,-79.31398,0,0,0,0,3.5,2.5,92.706,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",24,45.00363,-79.31481,0,0,0,0,5.5,4,88.538,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",32,45.00403,-79.31608,0,0,0,0,3,1.7,85.412,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",40,45.00429,-79.31728,0,0,0,0,5,2.8,91.664,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",48,45.00415,-79.52124,0,0,0,0,0.5,1,89.58,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",56,45.0055,-79.52338,0,0,0,0,0,1,100,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",64,45.00618,-79.52528,0,0,0,0,0.5,3.6,91.664,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",72,45.0069,-79.52671,0,0,0,0,0,2,98.958,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2023,"2023-06-20",80,45.00711,-79.52883,0,0,0,0,0.5,2,98.958,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",8,45.21358,-80.11698,0,0,0,0,4,1.3,39.564,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",16,45.21424,-80.11567,0,0,0,0,6,3,95.832,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",24,45.21514,-80.1146,0,0,0,0,3.2,9,89.58,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",32,45.21566,-80.11331,0,0,0,0,0.5,1,93.748,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",40,45.21671,-80.11177,0,0,0,0,3.5,1.2,85.412,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",48,45.356,-80.19508,0,0,0,0,3,4,65.614,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",56,45.35698,-80.1927,0,0,0,0,3,4.3,95.832,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",64,45.35698,-80.19093,0,0,0,0,0.5,4.3,97.916,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",72,45.35849,-80.18885,0,0,0,0,1,1,45.816,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2023,"2023-06-20",80,45.36096,-80.18626,0,0,0,0,1.5,1,91.664,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",8,44.8959,-79.7569,0,0,0,0,0,1,81.244,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",16,44.89721667,-79.7587,0,0,0,0,5,2.2,91.664,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",24,44.66475,-79.7594,0,0,0,0,3.7,1.1,95.832,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",32,44.89966667,-79.75945,0,0,0,0,5.5,2.7,84.37,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",40,44.9017,-79.75866667,0,0,0,0,5.2,2,93.748,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",48,44.89737,-79.7569,0,0,0,0,0,1,45.816,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",56,44.8994,-78.95626,0,0,0,0,1.5,1,93.748,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",64,44.90066,-78.75668,0,0,1,0,2,1,87.496,1,1,0.005
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",72,44.90168,-78.75874,0,0,0,0,1.5,1,94.79,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2023,"2023-06-20",80,44.89989,-79.75965,0,0,0,0,1,1,92.706,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",8,45.18502,-79.58072,0,0,0,0,4,1.8,93.748,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",16,45.18526,-79.58316,0,0,0,0,0,1,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",24,45.18587,-79.5851,0,0,0,0,4,1,94.79,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",32,45.18665,-79.58678,0,0,0,0,2,1,26.018,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",40,45.18732,-79.58817,0,0,0,0,0.5,1,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",48,45.30841,-79.96802,0,0,0,0,1.5,1,28.102,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",56,45.30877,-79.97186,0,0,0,0,0,1,0,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",64,45.30993,-79.97517,0,0,0,0,2,1,91.664,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",72,45.31105,-79.97769,0,0,0,0,1,1,81.244,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2023,"2023-06-20",80,45.31227,-79.98027,0,0,0,1,0,1,17.682,1,1,0.005
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",8,46.34133,-84.17499,0,0,0,0,5,1.5,80.202,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",16,46.34182,-84.17436,0,0,0,0,3,1,81.244,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",24,46.34261,-84.17365,0,0,0,0,3,1.1,70.824,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",32,46.34287,-84.17563,0,0,0,0,3.5,1.3,96.874,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",40,46.34314,-84.17713,0,0,0,0,0,1.5,66.656,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",48,46.56861,-84.29195,0,0,0,0,2,1,90.622,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",56,46.56968,-84.29067,0,0,0,0,0.5,1.6,94.79,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",64,46.57095,-84.28935,0,0,0,0,0.5,1.6,87.496,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",72,46.57145,-84.29233,0,0,0,0,3,2,97.916,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2023,"2023-06-20",80,46.5719,-84.29517,0,0,0,0,0,2,41.648,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",8,46.32547,-84.20879,0,0,0,0,0,3,90.622,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",16,46.3275,-84.20781,0,0,0,0,0,2,91.664,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",24,46.32796,-84.206,0,0,0,0,0,1.5,89.58,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",32,46.32895,-84.20386,0,0,0,0,0,2,80.202,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",40,46.33009,-84.20262,0,0,0,0,0,1.5,81.244,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",48,46.54242,-84.34788,0,0,0,0,0,2,47.4832,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",56,46.54606,-84.34615,0,0,0,0,0,1.3,76.6592,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",64,46.5466,-84.34357,0,0,0,0,0.5,3.3,79.16,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",72,46.54816,-84.33969,0,0,0,0,0,1,52.068,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2023,"2023-07-20",80,46.55011,-84.33762,0,0,0,0,0,2,61.446,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",8,,,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",16,,,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",24,,,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",32,,,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",40,,,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",48,46.48357,-84.47308,0,0,0,0,1.5,1,100,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",56,46.48403,-84.47323,0,0,0,0,1.5,1,100,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",64,46.48344,-84.47114,0,0,0,0,1,1,98.958,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",72,46.4814,-84.46997,0,0,0,0,0.5,1,80.202,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2023,"2023-07-20",80,46.47988,-84.46845,0,0,0,0,1,1,85.412,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",8,46.50855,-84.52988333,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",16,46.50648333,-84.52941667,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",24,46.50431667,-84.52983333,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",32,46.66875,-84.52948333,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",40,46.49988333,-84.52981667,0,0,0,0,,,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",48,46.50861,-84.52995,0,0,0,0,1.5,1.6,84.37,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",56,46.50677,-84.52939,0,0,0,0,0.5,1,47.9,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",64,46.50483,-84.52945,0,0,0,0,1,1,85.412,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",72,46.50294,-84.5295,0,0,0,0,1,1,95.832,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2023,"2023-07-20",80,46.5004,-84.5297,0,0,0,0,2,2,93.748,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",8,46.57516,-84.42575,0,0,0,0,4,2,97.916,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",16,46.57662,-84.42673,0,0,0,0,3,1,91.664,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",24,46.57551,-84.42652,0,0,0,0,7,2.5,97.916,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",32,46.57538,-84.42812,0,0,0,0,4.5,2.2,89.58,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",40,46.57618,-84.42927,0,0,0,0,6,2,83.328,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",48,46.96315,-84.70998,0,0,0,0,0.5,1,78.118,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",56,46.96106,-84.71115,0,0,0,0,4,1,100,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",64,46.9594,-84.71091,0,0,0,0,3.5,1,100,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",72,46.95903,-84.71352,0,0,0,0,1.5,1.6,97.916,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2023,"2023-07-20",80,46.96033,-84.71561,0,0,0,0,1.5,2.3,98.958,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",8,43.09689,-81.39018,0,0,0,0,2,5.5,29.144,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",16,43.09641,-81.39018,0,0,2,0,1,4.2,66.656,2,1,0.01
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",24,43.09547,-81.38952,0,0,1,0,1,3.5,24.976,1,1,0.005
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",32,43.09445,-81.39005,0,0,0,3,2.5,4,84.37,3,1,0.015
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",40,43.09403,-81.38916,0,0,1,0,4,3,86.454,1,1,0.005
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",48,43.16135,-81.65163,0,0,0,0,1.5,7,31.228,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",56,43.1602,-81.65034,0,0,1,0,1.8,3.6,94.79,1,1,0.005
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",64,43.15013,-81.65038,0,0,0,1,1.5,7.6,100,1,1,0.005
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",72,43.15741,-81.65008,0,0,1,0,2,3,95.832,1,1,0.005
+"ON","London","Parkhill Conservation Area","LD1",2023,"2023-05-20",80,43.15678,-81.64861,0,0,0,0,1,3.3,77.076,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",8,42.88388333,-81.47425,0,0,0,0,1.5,4.6,54.152,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",16,42.88458333,-81.47208333,0,0,0,0,9,2.5,90.622,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",24,42.88396667,-81.47231667,0,0,0,0,7,5.1,95.832,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",32,42.89996667,-81.47375,0,0,0,0,6,1.1,96.874,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",40,42.88391667,-81.47545,0,0,0,0,4.5,4,93.748,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",48,42.53034,-81.28415,0,0,0,0,2,3,90.622,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",56,42.53068,-81.28296,0,0,0,0,5,1,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",64,42.53066,-81.28295,0,0,0,0,2,4.6,94.79,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",72,42.52988,-81.28493,0,0,1,0,4,1,90.622,1,1,0.005
+"ON","London","Longwood Roads Conservation Area","LD2",2023,"2023-05-20",80,42.52016,-81.28539,0,0,0,0,0.5,3,92.706,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",8,42.54828,-80.57743,0,0,0,0,0,7.2,45.816,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",16,42.54881,-80.5786,0,0,0,0,0,7.3,96.874,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",24,42.54936,-80.57899,0,0,0,0,0.5,1,79.16,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",32,42.55021,-80.57935,0,0,0,0,1,9,95.832,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",40,42.55095,-80.57949,0,0,0,0,3.5,6.2,95.832,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",48,42.91228,-80.96014,0,0,0,0,2,4,81.244,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",56,42.91471,-80.9643,0,0,0,0,0,5.3,95.832,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",64,42.91555,-80.96543,0,0,0,0,0.5,4.6,66.656,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",72,42.91703,-80.96487,0,0,0,0,3,8,93.748,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2023,"2023-05-20",80,42.91825,-80.96559,0,0,0,0,3,7,97.916,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",8,42.44995,-81.01524,0,0,0,0,3.2,1.6,93.748,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",16,42.44963,-81.01383,0,0,0,0,2.5,2.1,95.832,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",24,42.44994,-81.01258,0,0,0,0,7,2.1,91.664,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",32,42.45,-81.01123,0,0,0,0,1.8,4,94.79,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",40,42.44932,-81.0106,0,0,0,0,3,9.5,95.832,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",48,42.74986,-81.02502,0,0,1,0,3.5,1.3,100,1,1,0.005
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",56,42.74958,-81.02284,0,0,0,2,5,1.3,100,2,1,0.01
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",64,42.74969,-81.02082,0,0,0,0,3,2,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",72,42.74969,-81.02084,0,0,0,0,4.5,4,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2023,"2023-05-20",80,42.74867,-81.01785,0,0,0,0,1,3.6,100,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",8,43.02685,-81.11103,0,0,0,0,4.1,4,91.664,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",16,43.02653,-81.11193,0,0,0,0,2,3.7,89.58,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",24,43.02572,-81.11165,0,0,0,0,0.5,1.5,89.58,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",32,43.02545,-81.11126,0,0,1,0,0,7.2,0,1,1,0.005
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",40,43.02536,-81.11006,0,0,0,0,8,6.3,96.874,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",48,43.04491,-81.18508,0,0,0,0,3.5,4.3,95.832,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",56,43.04416,-81.18661,0,0,0,0,2,1.6,97.916,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",64,43.04416,-81.18661,0,0,0,0,2,1.6,94.79,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",72,43.04239,-81.18571,0,0,0,0,1,2,89.58,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2023,"2023-05-20",80,43.04209,-81.18342,0,0,0,0,4,1,66.656,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,8,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,16,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,24,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,32,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,40,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,48,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,56,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,64,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,72,,,,,,,,,,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",,,80,,,,,,,,,,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",8,44.16152,-78.36435,0,0,0,0,1,1,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",16,44.16071,-78.16071,0,0,0,0,3.8,6,95.832,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",24,44.16015,-78.36327,0,0,0,0,0,1,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",32,44.16077,-78.36247,0,0,0,0,0,1.5,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",40,44.16055,-78.36229,0,0,0,0,0.5,1.5,91.664,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",48,44.2692,-78.60729,0,0,0,0,1,1,37.48,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",56,44.26786,-78.60735,0,0,0,0,1.5,10,98.958,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",64,44.26683,-78.60543,0,0,0,0,0,1.6,0,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",72,44.26734,-78.60397,0,0,0,0,0,1.3,8.304,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2023,"2023-06-20",80,44.26776,-78.60379,0,0,0,0,0,9,31.228,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",8,44.18563,-78.23232,0,0,0,0,0,1,29.144,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",16,44.18576,-78.22001,0,0,0,0,0,0.5,72.908,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",24,44.18641,78.22442,0,0,0,0,0,0.5,49.984,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",32,44.18637,-78.22274,0,0,0,0,0,0.5,70.824,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",40,44.18527,-78.22101,0,0,0,0,0,1,33.312,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",48,44.30957,-78.38324,0,0,0,0,0.5,2.3,31.228,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",56,44.30991,-78.3804,0,0,0,0,0,2,10.388,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",64,44.31066,-78.37386,0,0,0,0,0.5,1,58.32,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",72,44.31052,-78.37122,0,0,0,0,0.5,2,41.648,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2023,"2023-06-20",80,44.30838,-78.36808,0,0,0,0,0,1,20.808,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",8,44.17997,-78.16143,0,0,0,0,6,6.8,91.664,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",16,44.18132,-78.16105,0,0,0,0,5.5,7.5,89.58,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",24,44.18115,-78.16007,0,0,0,0,3,5,93.748,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",32,44.1796,-78.16047,0,0,0,0,2,1.5,95.832,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",40,44.17857,-78.1614,0,0,0,0,0,4.5,92.706,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",48,44.29989,-78.26888,0,0,0,0,1.5,2.3,100,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",56,44.30211,-78.26837,0,0,0,0,1.5,7,96.874,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",64,44.30156,-78.26682,0,0,0,0,1,3,87.496,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",72,44.2993,-78.26762,0,0,0,0,1.5,4.3,95.832,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2023,"2023-06-20",80,44.29769,-78.26898,0,0,0,0,0,2,77.076,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",8,44.28666,-78.20504,0,0,0,0,2.5,3,89.58,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",16,44.28807,-78.20511,0,0,0,0,6,5,91.664,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",24,44.28895,-78.20543,0,0,0,0,4.5,4.5,95.832,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",32,44.28859,-78.20674,0,0,0,0,6.5,5,95.832,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",40,44.28834,-78.20721,0,0,0,0,5,3.5,91.664,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",48,44.47789,-78.34172,0,0,0,0,0.5,2,97.916,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",56,44.48013,-78.3419,0,0,0,0,1.5,1.6,98.958,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",64,44.48169,-78.34244,0,0,0,0,2.5,2,100,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",72,44.48104,-78.34463,0,0,0,0,4,2.6,97.916,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2023,"2023-06-20",80,44.38053,-78.3453,0,0,0,0,0.5,2,94.79,0,0,0
+,,,,,,,,,0,0,11,11,,,,22,1,0.11
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+,,,,,,,,,,,,,,,,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",8,43.44045,-80.20539,0,0,0,0,0,8,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",16,43.43977,-80.20636,0,0,0,0,2,7.5,88.04,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",24,43.43979,-80.20535,0,0,0,0,4,5,98.44,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",32,43.44042,-80.20452,0,0,0,0,0,5.5,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",40,43.44092,-80.20528,0,0,0,0,0,8.5,100,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",48,43.44046,-80.20538,0,0,0,0,0,5,99.48,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",56,43.43978,-80.20639,0,0,0,0,0.5,8,79.72,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",64,43.4398,-80.20536,0,0,0,0,0,6.5,98.96,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",72,43.44042,-80.20485,0,0,0,0,0,7,97.4,0,0,0
+"ON","Hamilton","Belwood Lake Conservation Area","HM1",2024,"2024-06-10",80,43.44091,-80.20523,0,0,0,0,2,6,98.44,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",8,43.16136,-80.23219,0,0,0,0,4,7.5,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",16,43.16005,-80.23188,0,0,0,0,3.5,7.5,99.48,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",24,43.15939,-80.23142,0,0,0,0,2,8,99.74,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",32,43.15813,-80.25131,0,0,0,0,1,4.5,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",40,43.15705,-80.2312,0,0,0,0,1,7,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",48,43.16126,-80.23224,0,0,0,0,1,6.5,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",56,43.16004,-80.23177,0,0,0,0,4.5,7.5,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",64,43.15933,-80.2314,0,0,0,0,1.5,6.5,99.74,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",72,43.15814,-80.23126,0,0,0,0,2.5,8.5,100,0,0,0
+"ON","Hamilton","Pinehurst Conservation Area","HM2",2024,"2024-07-18",80,43.15706,-80.23122,0,0,0,0,0.5,7.5,99.48,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",8,43.30472,-79.57903,0,0,0,0,5.5,7,98.96,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",16,43.30566,-79.5805,0,0,0,0,2.2,7.5,99.74,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",24,43.30594,-79.58195,0,0,0,0,4,7.5,99.22,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",32,43.3047,-79.57898,0,0,0,0,2.5,6,98.7,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",40,43.3057,-79.58044,0,0,0,0,5,7.5,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",48,43.30588,-79.58195,0,0,0,0,4,7,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",56,43.30446,-79.57907,0,0,0,0,5,6.5,99.74,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",64,43.30563,-79.58024,0,0,0,0,3,3.5,98.18,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",72,43.3059,-79.58193,0,0,0,0,2,4.5,100,0,0,0
+"ON","Hamilton","Hilton Falls Conservation Area","HM3",2024,"2024-06-25",80,43.30647,-79.58324,0,0,0,0,6,6,99.74,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",8,43.30609,-80.13269,0,0,0,0,3,2,100,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",16,43.30545,-80.13162,0,0,0,0,4,9,100,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",24,43.30431,-80.13039,0,0,0,0,3,10,100,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",32,43.3062,-80.13207,0,0,0,0,0.5,6,100,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",40,43.30539,-80.13101,0,0,0,0,0,5.5,99.48,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",48,43.30488,-80.13043,0,0,0,0,0,9,91.68,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",56,43.30488,-80.13043,0,0,0,0,0,8.5,98.96,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",64,43.30627,-80.13267,0,0,0,0,6.5,10,99.22,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",72,43.30618,-80.13259,0,0,0,0,0,9.5,96.62,0,0,0
+"ON","Hamilton","Preservation Park","HM4",2024,"2024-06-10",80,43.30482,-80.13044,0,0,0,0,0.5,10,92.72,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",8,43.23412,-80.08549,0,0,0,0,2.5,8.5,100,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",16,43.23525,-80.08598,0,0,0,0,2,8.5,99.22,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",24,43.23652,-80.0864,0,0,0,0,4,8,96.1,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",32,43.23619,-80.08787,0,0,0,0,1.5,10,98.96,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",40,43.23467,-80.08764,0,0,0,0,2,9.5,98.44,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",48,43.23408,-80.0855,0,0,0,0,3,10,87,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",56,43.23524,-80.08596,0,0,0,0,3,7,96.36,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",64,43.23649,-80.08644,0,0,0,0,0.5,8,98.18,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",72,43.23618,-80.08787,0,0,0,0,1.5,5.5,100,0,0,0
+"ON","Hamilton","Valens Conservation Area","HM5",2024,"2024-07-18",80,43.23469,-80.08768,0,0,0,0,1.5,7,99.22,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",8,45.23372,-79.12747,0,0,0,0,4.5,8,99.74,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",16,45.2323,-79.12758,0,0,0,0,2.5,4.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",24,45.2313,-79.12831,0,0,0,0,6,1.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",32,45.23156,-79.12755,0,0,0,0,1.5,2.5,94.8,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",40,45.23119,-79.12672,0,0,0,0,2.5,4.5,100,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",48,45.2337,-79.12744,0,0,0,0,3.5,10,99.48,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",56,45.23129,-79.12578,0,0,0,0,3,2.5,99.74,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",64,45.2323,-79.12832,0,0,0,0,2.5,3.5,99.74,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",72,45.23156,-79.12754,0,0,0,0,2.5,2.5,99.74,0,0,0
+"ON","Muskoka","Arrowhead Provincial Park","MU1",2024,"2024-07-04",80,45.23119,-79.12665,0,0,0,0,3,4,99.48,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",8,45.00121,-79.31302,0,0,0,0,5,0,100,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",16,45.00081,-79.31434,0,0,0,0,3.5,2,96.1,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",24,45.00052,-79.31588,0,0,0,0,6,1,99.74,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",32,45.00142,-79.31662,0,0,0,0,4,1,99.74,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",40,45.00241,-79.31611,0,0,0,0,3,4,98.96,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",48,45.00118,-79.31306,0,0,0,0,2,0,98.96,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",56,45.00078,-79.31464,0,0,0,0,1.5,1.5,99.22,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",64,45.0005,-79.31389,0,0,0,0,0,1,97.92,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",72,45.00148,-79.31669,0,0,0,0,0,1,99.22,0,0,0
+"ON","Muskoka","Hardy Lake Provincial Park","MU2",2024,"2024-07-03",80,45,-79.31,0,0,0,0,3.5,2.5,99.48,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",8,45.21395,-80.11616,0,2,0,0,6,9.5,100,2,1,0.01
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",16,45.21502,-80.11449,0,0,0,0,3,9.5,100,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",24,45.2148,-80.11276,0,0,0,0,2,6,94.8,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",32,45.21573,-80.11149,0,0,0,0,3,7,98.96,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",40,45.21745,-80.10951,0,1,0,0,0,4,93.24,1,1,0.005
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",48,45.21385,-80.11615,0,0,0,0,3,3,99.48,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",56,45.21507,-80.11445,0,0,0,0,2,2,98.44,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",64,45.21483,-80.11279,0,0,0,0,3,3,89.6,0,0,0
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",72,45.21578,-80.11149,0,1,0,0,2,2,98.96,1,1,0.005
+"ON","Muskoka","Killbear Provincial Park","MU3",2024,"2024-07-05",80,45.21744,-80.10945,0,0,0,0,1,1,85.44,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",8,44.53763,-79.45428,0,0,0,0,2,1.5,100,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",16,44.53833,-79.45338,0,0,0,0,0.5,1,99.74,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",24,44.53862,-79.45422,0,0,0,0,3.5,0.5,96.36,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",32,44.53945,-79.45395,0,0,0,0,0.5,3,96.88,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",40,44.53762,-79.45269,0,0,0,0,7,1,99.22,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",48,44.5376,-79.45435,0,0,0,0,0,3,77.12,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",56,44.58833,-79.45538,0,0,0,0,3.5,3,75.04,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",64,44.5386,-79.45422,0,0,0,0,4.5,2,91.68,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",72,44.5395,-79.45397,0,0,0,0,5,2.5,98.44,0,0,0
+"ON","Muskoka","Six Mile Lake Provincial Park","MU4",2024,"2024-07-02",80,44.53718,-79.45279,0,0,0,0,1.5,1.5,96.88,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",8,45.18503,-79.5808,0,0,0,0,1.5,0,77.64,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",16,45.18514,-79.5826,0,0,0,0,3.5,1,100,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",24,45.18562,-79.58418,0,0,0,0,3,1.5,95.32,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",32,45.1862,-79.58575,0,0,0,0,1.5,2.5,100,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",40,45.1868,-79.58703,0,0,0,0,2,0.5,91.42,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",48,45.185,-79.58081,0,0,0,0,1,1,99.22,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",56,45.1851,-79.58263,0,0,0,0,2,1.5,91.68,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",64,45.18562,-79.58919,0,0,0,0,4,1,95.84,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",72,45.18623,-79.58579,0,0,0,0,6,2.5,98.18,0,0,0
+"ON","Muskoka","Oastler Lake / Rose Point Trail","MU5",2024,"2024-07-04",80,45.1868,-79.58704,0,0,0,0,0,1,83.36,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",8,46.37895,-84.27995,0,0,0,0,2.5,2,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",16,46.5856,-84.29015,0,0,0,0,0.5,1,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",24,46.58565,-84.29015,0,0,0,0,1.5,1,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",32,46.58567,-84.29015,0,0,0,0,1,1,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",40,46.5857,-84.29015,0,0,0,0,1.5,3,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",48,46.37895,-84.27995,0,0,0,0,3,2,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",56,46.5856,-84.29015,0,0,0,0,1,1.5,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",64,46.58565,-84.29015,0,0,0,0,4,2,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",72,46.58567,-84.29015,0,0,0,0,3,2,,0,0,0
+"ON","Sault Ste. Marie","Hiawatha Highlands","SM1",2024,"2024-06-14",80,46.5857,-84.29015,0,0,0,0,1,1.5,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",8,46.54012,-84.34544,0,0,0,0,2.5,7,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",16,46.54015,84.34523,0,0,0,0,0,10,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",24,46.54195,-84.33815,0,0,0,0,2,5.5,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",32,46.54218,-84.34036,0,0,0,0,4,8,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",40,46.54242,-84.33987,0,0,0,0,2,10,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",48,46.54012,-84.34544,0,0,0,0,2,7.5,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",56,46.54015,-84.34523,0,0,0,0,0,7,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",64,46.54195,-84.33815,0,0,0,0,1.5,6,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",72,46.54218,84.34036,0,0,0,0,3,5,,0,0,0
+"ON","Sault Ste. Marie","Fort Creek Conservation Area","SM2",2024,"2024-06-14",80,46.54242,-84.33987,0,0,0,0,3,8,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",8,46.76994,-84.2965,0,0,0,0,4,3.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",16,46.77446,-84.30066,0,0,0,0,3.5,6.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",24,46.77171,-84.29616,0,0,0,0,3,5.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",32,46.76822,-84.29627,0,0,0,0,4,3.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",40,46.76887,-84.29501,0,0,0,0,4.5,3,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",48,46.76994,-84.2965,0,0,0,0,1,4.3,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",56,46.77446,-84.30066,0,0,0,0,1.5,1.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",64,46.77171,-84.29616,0,0,0,0,0.5,1,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",72,46.76822,-84.29627,0,0,0,0,6,5.5,,0,0,0
+"ON","Sault Ste. Marie","Marks Bay","SM3",2024,"2024-06-20",80,46.76887,-84.29501,0,0,0,0,4.5,2,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",8,46.50898,-84.53028,0,0,0,0,6,3,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",16,46.50733,-84.52944,0,0,0,0,2,3,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",24,46.50558,-84.52954,0,0,0,0,1,7,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",32,,84.5296,0,0,0,0,3,6,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",40,46.50181,-84.52948,0,0,0,0,5,9,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",48,46.50898,-84.53028,0,0,0,0,6,3,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",56,46.50733,-84.52944,0,0,0,0,2,3,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",64,46.50558,-84.52954,0,0,0,0,1,7,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",72,,-84.5296,0,0,0,0,3,6,,0,0,0
+"ON","Sault Ste. Marie","Shore Ridges","SM4",2024,"2024-06-28",80,46.50181,-84.52948,0,0,0,0,5,9,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",8,46.95899,-84.71204,0,0,0,0,3,2,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",16,46.96025,-84.71207,0,0,0,0,6,2.5,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",24,46.96177,84.71097,0,0,0,0,3,3,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",32,46.9637,-84.70976,0,0,0,0,7,3,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",40,46.96553,-84.70856,0,0,0,0,3,3,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",48,46.95899,-84.71204,0,0,0,0,4,6,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",56,46.96025,-84.71207,0,0,0,0,4,2.5,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",64,46.96177,-84.71097,0,0,0,0,4.5,2.5,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",72,46.9637,-84.70976,0,0,0,0,0,3,,0,0,0
+"ON","Sault Ste. Marie","Pancake Bay Provincial Park","SM5",2024,"2024-06-20",80,46.96553,-84.70856,0,0,0,0,1.5,3,,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",8,43.09676,-81.39045,0,0,0,0,2.5,2.5,99.22,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",16,43.09587,-81.39032,0,0,0,0,2,2,97.4,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",24,43.09472,-81.38942,0,0,0,0,1,4,92.2,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",32,43.09417,-81.38993,0,0,0,0,2.5,1,100,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",40,43.09457,-81.39212,0,0,0,0,3,0.5,90.12,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",48,43.09687,-81.39053,0,0,0,0,0.5,1,100,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",56,43.09534,-81.39024,0,0,0,0,1,1.5,98.96,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",64,43.0947,-81.38942,0,0,0,0,0,1.5,95.84,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",72,43.09418,-81.38996,0,0,0,0,0,1.5,100,0,0,0
+"ON","London","Parkhill Conservation Area","LD1",2024,"2024-07-22",80,43.09457,-81.39213,0,0,0,0,1,2,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",8,42.53043,-81.2844,0,0,0,0,3.5,6.5,99.48,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",16,42.53084,-81.28304,0,0,0,0,4,6.5,98.44,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",24,42.5301,-81.28387,0,0,0,0,2.5,2.5,99.48,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",32,42.52921,-81.23472,0,0,0,0,7,6.5,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",40,42.53015,-81.283,0,0,0,0,2,4.5,98.44,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",48,42.53036,-81.28428,0,0,0,0,1,6.5,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",56,42.53084,-81.28301,0,0,0,0,1.5,3.5,98.96,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",64,42.53011,-81.28391,0,0,0,0,1.5,2.5,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",72,42.52984,-81.28481,0,0,0,0,2,7.5,100,0,0,0
+"ON","London","Longwood Roads Conservation Area","LD2",2024,"2024-06-28",80,42.53018,-81.28504,0,0,0,0,1,7,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",8,42.54886,-80.57861,0,0,0,0,1,2,99.22,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",16,42.54951,-80.57948,0,0,0,0,1,10,78.42,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",24,42.55085,-80.59951,0,0,0,0,7,10,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",32,42.55166,-80.57908,0,0,0,0,4.5,10,99.74,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",40,42.55138,-80.57907,0,0,0,0,1.5,10,97.14,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",48,42.54884,-80.57861,0,0,0,0,1,6,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",56,42.54996,-80.57962,0,0,0,0,1,10,98.96,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",64,42.53085,-80.57959,0,0,0,0,3,1.5,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",72,42.55157,-80.57963,0,0,0,0,2.5,2,100,0,0,0
+"ON","London","Lake Whittaker Conservation Area","LD3",2024,"2024-06-26",80,42.55241,-80.57852,0,0,0,0,1,1,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",8,42.44626,-81.01848,0,0,0,0,1,2.5,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",16,42.44659,-81.01713,0,0,0,0,1.5,7,98.96,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",24,42.44662,-81.01601,0,0,0,1,3.5,6.5,92.46,1,1,0.005
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",32,42.44568,-81.01469,0,1,0,0,2.5,5,96.62,1,1,0.005
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",40,42.44552,-81.01458,0,1,0,2,3.5,4,98.44,3,1,0.015
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",48,42.44628,-81.01854,0,0,0,0,1,2.5,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",56,42.44661,-81.01712,0,0,0,0,0,5.5,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",64,42.44656,-81.01596,0,0,0,0,0.5,5,100,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",72,42.44565,-81.01466,0,0,0,0,1,6.5,98.96,0,0,0
+"ON","London","Springwater Conservation Area","LD4",2024,"2024-06-27",80,42.44491,-81.01367,0,0,0,1,1.5,2.5,100,1,1,0.005
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",8,43.02217,-81.10899,0,0,0,0,3.5,4,99.48,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",16,43.02178,-81.11819,0,0,0,0,1,9.5,96.62,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",24,43.02206,-81.10898,0,0,0,0,1,2.5,98.18,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",32,43.02226,-81.10755,0,0,0,0,1.5,1.5,94.28,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",40,43.02231,-81.10829,0,0,0,0,1.5,3.5,98.7,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",48,43.02227,-81.10919,0,0,0,0,0.5,1,100,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",56,43.02179,-81.10017,0,0,0,0,1,1,98.96,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",64,43.02199,-81.10894,0,0,0,0,0.5,1,99.48,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",72,43.02229,-81.1076,0,0,0,0,1,1,97.92,0,0,0
+"ON","London","Fanshawe Conservation Area","LD5",2024,"2024-06-27",80,43.02249,-81.10823,0,0,0,0,0.5,8.5,100,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",8,44.24401,-78.46302,0,1,1,0,0,2,100,2,1,0.01
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",16,44.24341,-78.46424,0,0,0,0,3,2,99.22,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",24,44.24266,-78.46508,0,0,0,1,4,9,100,1,1,0.005
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",32,44.24323,-78.46516,0,0,0,0,3,1.5,95.84,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",40,44.24323,-78.46516,0,0,0,0,2,7.5,100,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",48,44.24403,-78.46306,0,0,1,1,0.5,3.5,98.96,2,1,0.01
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",56,44.24338,-78.4642,0,0,0,0,1,3.5,98.44,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",64,44.24269,-78.46512,0,0,0,0,0.5,8,98.18,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",72,44.24324,-78.4652,0,0,0,0,2,2,98.96,0,0,0
+"ON","Peterborough","Ken Reid Conservation Area","PT1",2024,"2024-06-11",80,44.2435,-78.464,0,0,1,1,1,5,97.4,2,1,0.01
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",8,44.16068,-78.36452,0,0,0,0,3,2.5,100,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",16,44.16022,-78.36346,0,0,0,0,0,8,94.8,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",24,44.16093,-78.36245,0,0,0,0,0.5,3,100,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",32,44.16024,-78.36351,0,0,0,0,0,2,96.88,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",40,44.1621,-78.3644,0,0,0,0,0,5.5,84.92,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",48,44.16073,-78.36432,0,0,0,0,3,1.5,98.96,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",56,44.16024,-78.36362,0,0,0,0,1.5,1.5,97.608,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",64,44.16089,-78.36253,0,0,0,0,4,2.5,95.32,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",72,44.16032,-78.36352,0,0,0,0,1,2,87,0,0,0
+"ON","Peterborough","Windy Ridge Conservation Area","PT2",2024,"2024-06-11",80,44.16204,-78.36439,0,0,0,0,0,6.5,76.6,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",8,44.1857,-78.23041,0,0,0,0,1,1.5,96.88,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",16,44.18591,-78.22861,0,0,0,0,0,3,96.1,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",24,44.18609,-78.22701,0,0,0,0,0,10,98.44,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",32,44.18632,-78.22535,0,0,0,0,3,3,99.74,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",40,44.18645,-78.2238,0,0,0,0,0,10,81.28,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",48,44.18572,-78.23025,0,0,0,1,0.5,10,80.76,1,1,0.005
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",56,44.18593,-78.2269,0,0,0,0,0,10,94.28,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",64,44.18612,-78.22537,0,0,0,0,0,1.5,75.3,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",72,44.18631,-78.22381,0,0,0,0,1,10,88.82,0,0,0
+"ON","Peterborough","Jackson Creek Conservation Area","PT3",2024,"2024-06-13",80,44.18646,-78.22381,0,0,0,0,0.5,1,84.92,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",8,44.17931,-78.16148,0,1,0,0,2,9,100,1,1,0.005
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",16,44.17991,-78.1608,0,0,0,0,3,8,98.96,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",24,44.18021,-78.16011,0,0,2,0,5,7.5,100,2,1,0.01
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",32,44.17953,-78.26064,0,0,0,0,6.5,7.5,100,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",40,44.17877,-78.16118,0,0,0,0,5,7,85.44,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",48,44.17933,-78.16159,0,1,0,0,6,7,99.74,1,1,0.005
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",56,44.17989,-78.16079,0,0,0,0,2.5,6,98.18,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",64,44.18027,-78.16012,0,0,0,0,0.5,2.5,98.44,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",72,44.17957,-78.1606,0,0,0,0,5,4.5,99.74,0,0,0
+"ON","Peterborough","Mark S. Burham Provincial Park","PT4",2024,"2024-06-12",80,44.17874,-78.16116,0,0,0,0,3,8.5,97.66,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",8,44.28581,-78.20617,0,0,0,0,0.5,10,97.92,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",16,44.28695,-78.20581,0,0,0,0,6,2,99.48,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",24,44.28474,-78.20558,0,0,1,0,2,8.5,100,1,1,0.005
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",32,44.28834,-78.20589,0,0,0,0,2,8.5,91.16,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",40,44.28839,-78.20694,0,0,0,0,2,3,100,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",48,44.28637,-78.20587,0,0,0,0,0.5,9,99.48,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",56,44.28698,-78.20572,0,0,0,0,4,21.5,98.18,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",64,44.28748,-78.20555,0,0,0,0,0.5,10,99.48,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",72,44.28829,-78.2059,0,0,0,0,1.5,7,99.22,0,0,0
+"ON","Peterborough","Selwyn Creek Conservation Area","PT5",2024,"2024-06-12",80,44.28837,-78.20683,0,0,0,0,5,2,99.74,0,0,0
